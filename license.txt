@@ -1,7 +1,7 @@
 
 
 <!--
-Copyright (c) 2019 by Naymul Hossain (https://codepen.io/naymulhulk/pen/JgEvez)
+Copyright (c) 2019 by Dan Abramov (https://codepen.io/gaearon/pen/gWWZgR)
 
 
 Fork of an original work by Sophie Alpert (https://codepen.io/sophiebits/pen/qNOZOP)
